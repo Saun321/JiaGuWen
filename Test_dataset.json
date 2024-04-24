@@ -1,0 +1,705 @@
+{
+    "dataset": "Example Fine-Tuning Dataset for LLaVa",
+    "data": [
+        {
+            "id": 1,
+            "character": "\u5b89",
+            "instruction": "Analyze the given image and provide a detailed description",
+            "input": "3653610.jpg",
+            "output": "Compound \u5b89 from building \u5b80 mi\u00e1n and female \u5973 n\u01da. (name- safe \u5b89 \u0101n)"
+        },
+        {
+            "id": 2,
+            "character": "\u5b89",
+            "instruction": "Analyze the given image and provide a detailed description",
+            "input": "3655161.jpg",
+            "output": "Compound \u5b89 from building \u5b80 mi\u00e1n and female \u5973 n\u01da. (name- safe \u5b89 \u0101n)"
+        },
+        {
+            "id": 3,
+            "character": "\u5b89",
+            "instruction": "Analyze the given image and provide a detailed description",
+            "input": "3655689.jpg",
+            "output": "Compound \u5b89 from building \u5b80 mi\u00e1n and female \u5973 n\u01da. (name- safe \u5b89 \u0101n)"
+        },
+        {
+            "id": 4,
+            "character": "\u516b",
+            "instruction": "Analyze the given image and provide a detailed description",
+            "input": "3655818.jpg",
+            "output": "often indicating separation and number 8 - Component \u516b\u4e37 from (not- \u4eba r\u00e9n) and (not- \u5165 r\u00f9). (name- separation \u4e37\u516b b\u0101)"
+        },
+        {
+            "id": 5,
+            "character": "\u516b",
+            "instruction": "Analyze the given image and provide a detailed description",
+            "input": "3656106.jpg",
+            "output": "often indicating separation and number 8 - Component \u516b\u4e37 from (not- \u4eba r\u00e9n) and (not- \u5165 r\u00f9). (name- separation \u4e37\u516b b\u0101)"
+        },
+        {
+            "id": 6,
+            "character": "\u5df4",
+            "instruction": "Analyze the given image and provide a detailed description",
+            "input": "3656787.jpg",
+            "output": "man kneeling with hands grabbing something - Component \u5df4 (name- person-kneeling-grabbing \u5df4 b\u0101)"
+        },
+        {
+            "id": 7,
+            "character": "\u5df4",
+            "instruction": "Analyze the given image and provide a detailed description",
+            "input": "3656630.jpg",
+            "output": "man kneeling with hands grabbing something - Component \u5df4 (name- person-kneeling-grabbing \u5df4 b\u0101)"
+        },
+        {
+            "id": 8,
+            "character": "\u5df4",
+            "instruction": "Analyze the given image and provide a detailed description",
+            "input": "3657659.jpg",
+            "output": "man kneeling with hands grabbing something - Component \u5df4 (name- person-kneeling-grabbing \u5df4 b\u0101)"
+        },
+        {
+            "id": 9,
+            "character": "\u5df4",
+            "instruction": "Analyze the given image and provide a detailed description",
+            "input": "3657131.jpg",
+            "output": "man kneeling with hands grabbing something - Component \u5df4 (name- person-kneeling-grabbing \u5df4 b\u0101)"
+        },
+        {
+            "id": 10,
+            "character": "\u7679",
+            "instruction": "Analyze the given image and provide a detailed description",
+            "input": "3657179.jpg",
+            "output": "Compound \u7679 hand-action \u6bb3 sh\u016b and two-feet-forward \u7676\ud84e\udd60 b\u014d."
+        },
+        {
+            "id": 11,
+            "character": "\u767d",
+            "instruction": "Analyze the given image and provide a detailed description",
+            "input": "3658708.jpg",
+            "output": "Component \u767d (name- white-moon \u767d b\u00e1i)"
+        },
+        {
+            "id": 12,
+            "character": "\u767e",
+            "instruction": "Analyze the given image and provide a detailed description",
+            "input": "3658973.jpg",
+            "output": "Compound \u767e from number-one \u4e00 y\u012b and phonetic white-moon \u767d b\u00e1i"
+        },
+        {
+            "id": 13,
+            "character": "\u8d25",
+            "instruction": "Analyze the given image and provide a detailed description",
+            "input": "3658373.jpg",
+            "output": "Compound \u6557 from cowry (\u8d1d)\u8c9d b\u00e8i and hand-action \u6535\u6534 p\u016b"
+        },
+        {
+            "id": 14,
+            "character": "\u822c",
+            "instruction": "Analyze the given image and provide a detailed description",
+            "input": "3659824.jpg",
+            "output": "Compound \u822c from boat \u821f zh\u014du and hand-action \u6bb3 sh\u016b (name- boat-control \u822c b\u0101n)"
+        },
+        {
+            "id": 15,
+            "character": "\u822c",
+            "instruction": "Analyze the given image and provide a detailed description",
+            "input": "3700889.jpg",
+            "output": "Compound \u822c from boat \u821f zh\u014du and hand-action \u6bb3 sh\u016b (name- boat-control \u822c b\u0101n)"
+        },
+        {
+            "id": 16,
+            "character": "\u90a6",
+            "instruction": "Analyze the given image and provide a detailed description",
+            "input": "3700910.jpg",
+            "output": "Family name Feng \u9146 now \u90a6 not \u4e30 - Component \u90a6 older \ud861\udea6 older \ud861\ude9a from right-city \u961d\u9091 y\u00ec and related phonetic plant \u4e30\ud847\udd00 f\u0113ng B032 \u4e30[\u8c50] simp \u4e30 simp \u90a6 (place name \u9146\u90fd > \u4e30\u90fd) (family name \u9146 > \u90a6) (Zhou state \u9146 > \u9146). (name- nation \u90a6\ud861\udea6\ud861\ude9a b\u0101ng)"
+        },
+        {
+            "id": 17,
+            "character": "\u96f9",
+            "instruction": "Analyze the given image and provide a detailed description",
+            "input": "3700191.jpg",
+            "output": "Compound \u96f9 from rain \u96e8 y\u01d4 and phonetic hand-holding-baby \u5305 b\u0101o"
+        },
+        {
+            "id": 18,
+            "character": "\u96f9",
+            "instruction": "Analyze the given image and provide a detailed description",
+            "input": "3701343.jpg",
+            "output": "Compound \u96f9 from rain \u96e8 y\u01d4 and phonetic hand-holding-baby \u5305 b\u0101o"
+        },
+        {
+            "id": 19,
+            "character": "\u5b9d",
+            "instruction": "Analyze the given image and provide a detailed description",
+            "input": "3701769.jpg",
+            "output": "Compound \u5bf6 variant \u5bf3 from building \u5b80 mi\u00e1n and (rem- \u738b w\u00e1ng) from jade \u7389 y\u00f9 and cowry (\u8d1d)\u8c9d b\u00e8i and container \u7f36 f\u01d2u and warping-wheel (\u5c14)\u723e \u011br C018 \u5bf6<\u5bf3> A008 \u5b9d[\u5bf6] new-char \u5b9d"
+        },
+        {
+            "id": 20,
+            "character": "\u5b9d",
+            "instruction": "Analyze the given image and provide a detailed description",
+            "input": "3701894.jpg",
+            "output": "Compound \u5bf6 variant \u5bf3 from building \u5b80 mi\u00e1n and (rem- \u738b w\u00e1ng) from jade \u7389 y\u00f9 and cowry (\u8d1d)\u8c9d b\u00e8i and container \u7f36 f\u01d2u and warping-wheel (\u5c14)\u723e \u011br C018 \u5bf6<\u5bf3> A008 \u5b9d[\u5bf6] new-char \u5b9d"
+        },
+        {
+            "id": 21,
+            "character": "\u9971",
+            "instruction": "Analyze the given image and provide a detailed description",
+            "input": "3702292.jpg",
+            "output": "Compound \u98fd from mouth-eating (\u9963)\u98e0\u98df sh\u00ed and related phonetic hand-holding-baby \u5305 b\u0101o simp \u9971"
+        },
+        {
+            "id": 22,
+            "character": "\u4fdd",
+            "instruction": "Analyze the given image and provide a detailed description",
+            "input": "3705956.jpg",
+            "output": "a person \u4ebb holding a baby \ud846\udd40\ud84c\udfbc\ud842\udee1 or \u5446 - Compound \u4fdd older \ud840\ude03 from person-left \u4ebb r\u00e9n and (rem- \u5446 d\u0101i) from child-in-swaddling \ud846\udd40\ud84c\udfbc\ud842\udee1 f\u00fa. (name- protect-baby-bao \u4fdd\ud840\ude03 b\u01ceo)"
+        },
+        {
+            "id": 23,
+            "character": "\u4fdd",
+            "instruction": "Analyze the given image and provide a detailed description",
+            "input": "3705965.jpg",
+            "output": "a person \u4ebb holding a baby \ud846\udd40\ud84c\udfbc\ud842\udee1 or \u5446 - Compound \u4fdd older \ud840\ude03 from person-left \u4ebb r\u00e9n and (rem- \u5446 d\u0101i) from child-in-swaddling \ud846\udd40\ud84c\udfbc\ud842\udee1 f\u00fa. (name- protect-baby-bao \u4fdd\ud840\ude03 b\u01ceo)"
+        },
+        {
+            "id": 24,
+            "character": "\u4fdd",
+            "instruction": "Analyze the given image and provide a detailed description",
+            "input": "3706710.jpg",
+            "output": "a person \u4ebb holding a baby \ud846\udd40\ud84c\udfbc\ud842\udee1 or \u5446 - Compound \u4fdd older \ud840\ude03 from person-left \u4ebb r\u00e9n and (rem- \u5446 d\u0101i) from child-in-swaddling \ud846\udd40\ud84c\udfbc\ud842\udee1 f\u00fa. (name- protect-baby-bao \u4fdd\ud840\ude03 b\u01ceo)"
+        },
+        {
+            "id": 25,
+            "character": "\u4fdd",
+            "instruction": "Analyze the given image and provide a detailed description",
+            "input": "3706797.jpg",
+            "output": "a person \u4ebb holding a baby \ud846\udd40\ud84c\udfbc\ud842\udee1 or \u5446 - Compound \u4fdd older \ud840\ude03 from person-left \u4ebb r\u00e9n and (rem- \u5446 d\u0101i) from child-in-swaddling \ud846\udd40\ud84c\udfbc\ud842\udee1 f\u00fa. (name- protect-baby-bao \u4fdd\ud840\ude03 b\u01ceo)"
+        },
+        {
+            "id": 26,
+            "character": "\u4fdd",
+            "instruction": "Analyze the given image and provide a detailed description",
+            "input": "3706799.jpg",
+            "output": "a person \u4ebb holding a baby \ud846\udd40\ud84c\udfbc\ud842\udee1 or \u5446 - Compound \u4fdd older \ud840\ude03 from person-left \u4ebb r\u00e9n and (rem- \u5446 d\u0101i) from child-in-swaddling \ud846\udd40\ud84c\udfbc\ud842\udee1 f\u00fa. (name- protect-baby-bao \u4fdd\ud840\ude03 b\u01ceo)"
+        },
+        {
+            "id": 27,
+            "character": "\u4fdd",
+            "instruction": "Analyze the given image and provide a detailed description",
+            "input": "3709720.jpg",
+            "output": "a person \u4ebb holding a baby \ud846\udd40\ud84c\udfbc\ud842\udee1 or \u5446 - Compound \u4fdd older \ud840\ude03 from person-left \u4ebb r\u00e9n and (rem- \u5446 d\u0101i) from child-in-swaddling \ud846\udd40\ud84c\udfbc\ud842\udee1 f\u00fa. (name- protect-baby-bao \u4fdd\ud840\ude03 b\u01ceo)"
+        },
+        {
+            "id": 28,
+            "character": "\u8c79",
+            "instruction": "Analyze the given image and provide a detailed description",
+            "input": "3709872.jpg",
+            "output": "remnant \u52fa of the spots on a leopard \u8c78 - Component \u8c79 from small-animal \u8c78 zh\u00ec and (rem+ \u52fa sh\u00e1o leopards spots). (name- leopard-spots \u8c79 b\u00e0o)"
+        },
+        {
+            "id": 29,
+            "character": "\u8c79",
+            "instruction": "Analyze the given image and provide a detailed description",
+            "input": "3710637.jpg",
+            "output": "remnant \u52fa of the spots on a leopard \u8c78 - Component \u8c79 from small-animal \u8c78 zh\u00ec and (rem+ \u52fa sh\u00e1o leopards spots). (name- leopard-spots \u8c79 b\u00e0o)"
+        },
+        {
+            "id": 30,
+            "character": "\u5351",
+            "instruction": "Analyze the given image and provide a detailed description",
+            "input": "3712138.jpg",
+            "output": "a long handled fan used by a slave indicating inferior person - Component \u5351 (name- fan-slave \u5351 b\u0113i)"
+        },
+        {
+            "id": 31,
+            "character": "\u5317",
+            "instruction": "Analyze the given image and provide a detailed description",
+            "input": "3712743.jpg",
+            "output": "the back \u5317 faces north \u5317 when looking at the sundial, two men back to back, original \u5317 back-bei \u80cc b\u00e8i - Component \u5317 (name- North-back \u5317 b\u011bi)"
+        },
+        {
+            "id": 32,
+            "character": "\u8d1d",
+            "instruction": "Analyze the given image and provide a detailed description",
+            "input": "3713625.jpg",
+            "output": "a cowry shell - Component \u8c9d B004 \u8d1d[\u8c9d] new-char \u8d1d. (name- cowry (\u8d1d)\u8c9d b\u00e8i)"
+        },
+        {
+            "id": 34,
+            "character": "\u794a",
+            "instruction": "Analyze the given image and provide a detailed description",
+            "input": "3713199.jpg",
+            "output": "Compound \u794a from altar \u793b\u793a sh\u00ec and phonetic carry-pole \u65b9 f\u0101ng"
+        },
+        {
+            "id": 36,
+            "character": "\u9f3b",
+            "instruction": "Analyze the given image and provide a detailed description",
+            "input": "3714160.jpg",
+            "output": "Compound \u9f3b from nose \u81ea z\u00ec and .phonetic give-arrow \u7540 b\u00ec"
+        },
+        {
+            "id": 37,
+            "character": "\u5315",
+            "instruction": "Analyze the given image and provide a detailed description",
+            "input": "3714994.jpg",
+            "output": "baby animal, man, mouse, feet, spoon - Component \u5315 variant \ud842\udd0e (not- \u4e03 q\u012b seven) (name- person-right \u5315 b\u01d0) (name- person-right-variant \ud842\udd0e\u5315 b\u01d0)"
+        },
+        {
+            "id": 38,
+            "character": "\u5315",
+            "instruction": "Analyze the given image and provide a detailed description",
+            "input": "3715844.jpg",
+            "output": "baby animal, man, mouse, feet, spoon - Component \u5315 variant \ud842\udd0e (not- \u4e03 q\u012b seven) (name- person-right \u5315 b\u01d0) (name- person-right-variant \ud842\udd0e\u5315 b\u01d0)"
+        },
+        {
+            "id": 39,
+            "character": "\u5315",
+            "instruction": "Analyze the given image and provide a detailed description",
+            "input": "3716652.jpg",
+            "output": "baby animal, man, mouse, feet, spoon - Component \u5315 variant \ud842\udd0e (not- \u4e03 q\u012b seven) (name- person-right \u5315 b\u01d0) (name- person-right-variant \ud842\udd0e\u5315 b\u01d0)"
+        },
+        {
+            "id": 40,
+            "character": "\u6bd4",
+            "instruction": "Analyze the given image and provide a detailed description",
+            "input": "3716934.jpg",
+            "output": "which can be compared - Component \u6bd4 from two person-right \u5315 b\u01d0. (name- two-person-compare \u6bd4 b\u01d0)"
+        },
+        {
+            "id": 41,
+            "character": "\u5fc5",
+            "instruction": "Analyze the given image and provide a detailed description",
+            "input": "3716976.jpg",
+            "output": "the measuring string \u5f0b to measure the separation \u516b - Component \u5fc5 from spool \u5f0b y\u00ec and separation \u516b b\u0101. (name- spool-string \u5fc5 b\u00ec)"
+        },
+        {
+            "id": 42,
+            "character": "\u95ed",
+            "instruction": "Analyze the given image and provide a detailed description",
+            "input": "3717251.jpg",
+            "output": "Compound \u9589 from gate (\u95e8)\u9580 m\u00e9n and dam \u624d c\u00e1i simp \u95ed"
+        },
+        {
+            "id": 43,
+            "character": "\u7540",
+            "instruction": "Analyze the given image and provide a detailed description",
+            "input": "3717370.jpg",
+            "output": "(- gift on a table), (- from an arrow \u7530 arrow head and \u4e0c arrow), (- originally an arrow) - Component \u7540 from (rem+ \u7530 ti\u00e1n arrow-head) and (rem+ \u4e0c j\u012b arrow tail). (name- give-arrow \u7540 b\u00ec)"
+        },
+        {
+            "id": 44,
+            "character": "\u7540",
+            "instruction": "Analyze the given image and provide a detailed description",
+            "input": "3717476.jpg",
+            "output": "(- gift on a table), (- from an arrow \u7530 arrow head and \u4e0c arrow), (- originally an arrow) - Component \u7540 from (rem+ \u7530 ti\u00e1n arrow-head) and (rem+ \u4e0c j\u012b arrow tail). (name- give-arrow \u7540 b\u00ec)"
+        },
+        {
+            "id": 45,
+            "character": "\u7540",
+            "instruction": "Analyze the given image and provide a detailed description",
+            "input": "3718281.jpg",
+            "output": "(- gift on a table), (- from an arrow \u7530 arrow head and \u4e0c arrow), (- originally an arrow) - Component \u7540 from (rem+ \u7530 ti\u00e1n arrow-head) and (rem+ \u4e0c j\u012b arrow tail). (name- give-arrow \u7540 b\u00ec)"
+        },
+        {
+            "id": 46,
+            "character": "\u655d",
+            "instruction": "Analyze the given image and provide a detailed description",
+            "input": "3718715.jpg",
+            "output": "Compound \u655d from hand-action \u6535\u6534 p\u016b and related phonetic tattered-cloth \u3840 b\u00ec. (name- tattered \u655d b\u00ec)"
+        },
+        {
+            "id": 47,
+            "character": "\u655d",
+            "instruction": "Analyze the given image and provide a detailed description",
+            "input": "3718190.jpg",
+            "output": "Compound \u655d from hand-action \u6535\u6534 p\u016b and related phonetic tattered-cloth \u3840 b\u00ec. (name- tattered \u655d b\u00ec)"
+        },
+        {
+            "id": 48,
+            "character": "\u655d",
+            "instruction": "Analyze the given image and provide a detailed description",
+            "input": "3719872.jpg",
+            "output": "Compound \u655d from hand-action \u6535\u6534 p\u016b and related phonetic tattered-cloth \u3840 b\u00ec. (name- tattered \u655d b\u00ec)"
+        },
+        {
+            "id": 49,
+            "character": "\u655d",
+            "instruction": "Analyze the given image and provide a detailed description",
+            "input": "3719652.jpg",
+            "output": "Compound \u655d from hand-action \u6535\u6534 p\u016b and related phonetic tattered-cloth \u3840 b\u00ec. (name- tattered \u655d b\u00ec)"
+        },
+        {
+            "id": 50,
+            "character": "\u8f9f",
+            "instruction": "Analyze the given image and provide a detailed description",
+            "input": "3719452.jpg",
+            "output": "probably punishment by beheading - Compound \u8f9f from person-squatting \u5c38 sh\u012b (rem+ \u53e3 k\u01d2u persons- head) and chisel \u8f9b x\u012bn A189 \u8f9f[\u95e2] simp \u8f9f. (name- law \u8f9f p\u00ec)"
+        },
+        {
+            "id": 51,
+            "character": "\u8f9f",
+            "instruction": "Analyze the given image and provide a detailed description",
+            "input": "3719592.jpg",
+            "output": "probably punishment by beheading - Compound \u8f9f from person-squatting \u5c38 sh\u012b (rem+ \u53e3 k\u01d2u persons- head) and chisel \u8f9b x\u012bn A189 \u8f9f[\u95e2] simp \u8f9f. (name- law \u8f9f p\u00ec)"
+        },
+        {
+            "id": 52,
+            "character": "\u6fde",
+            "instruction": "Analyze the given image and provide a detailed description",
+            "input": "3720911.jpg",
+            "output": "Compound \u6fde from three-dot-water \u6c35 shu\u01d0 and phonetic nose-bi \u9f3b b\u00ed"
+        },
+        {
+            "id": 53,
+            "character": "\u5175",
+            "instruction": "Analyze the given image and provide a detailed description",
+            "input": "3720563.jpg",
+            "output": " two hands \u5efe holding an ax \u65a4 - Component \u5175 from two-hands-below \u5efe g\u01d2ng and ax \u65a4 j\u012bn. (name- two-hands-ax \u5175 b\u012bng)"
+        },
+        {
+            "id": 54,
+            "character": "\u5175",
+            "instruction": "Analyze the given image and provide a detailed description",
+            "input": "3720290.jpg",
+            "output": " two hands \u5efe holding an ax \u65a4 - Component \u5175 from two-hands-below \u5efe g\u01d2ng and ax \u65a4 j\u012bn. (name- two-hands-ax \u5175 b\u012bng)"
+        },
+        {
+            "id": 55,
+            "character": "\u4e19",
+            "instruction": "Analyze the given image and provide a detailed description",
+            "input": "3721665.jpg",
+            "output": "Chinese kang \u706b\u7095, a fire-stove that goes under the bed - Component \u4e19 (name- fire-kang \u4e19 b\u01d0ng)"
+        },
+        {
+            "id": 56,
+            "character": "\u4e19",
+            "instruction": "Analyze the given image and provide a detailed description",
+            "input": "3721772.jpg",
+            "output": "Chinese kang \u706b\u7095, a fire-stove that goes under the bed - Component \u4e19 (name- fire-kang \u4e19 b\u01d0ng)"
+        },
+        {
+            "id": 57,
+            "character": "\u4e19",
+            "instruction": "Analyze the given image and provide a detailed description",
+            "input": "3721925.jpg",
+            "output": "Chinese kang \u706b\u7095, a fire-stove that goes under the bed - Component \u4e19 (name- fire-kang \u4e19 b\u01d0ng)"
+        },
+        {
+            "id": 58,
+            "character": "\u4e19",
+            "instruction": "Analyze the given image and provide a detailed description",
+            "input": "3723784.jpg",
+            "output": "Chinese kang \u706b\u7095, a fire-stove that goes under the bed - Component \u4e19 (name- fire-kang \u4e19 b\u01d0ng)"
+        },
+        {
+            "id": 59,
+            "character": "\u4e19",
+            "instruction": "Analyze the given image and provide a detailed description",
+            "input": "3723618.jpg",
+            "output": "Chinese kang \u706b\u7095, a fire-stove that goes under the bed - Component \u4e19 (name- fire-kang \u4e19 b\u01d0ng)"
+        },
+        {
+            "id": 60,
+            "character": "\u4e19",
+            "instruction": "Analyze the given image and provide a detailed description",
+            "input": "3723156.jpg",
+            "output": "Chinese kang \u706b\u7095, a fire-stove that goes under the bed - Component \u4e19 (name- fire-kang \u4e19 b\u01d0ng)"
+        },
+        {
+            "id": 61,
+            "character": "\u4e19",
+            "instruction": "Analyze the given image and provide a detailed description",
+            "input": "3724706.jpg",
+            "output": "Chinese kang \u706b\u7095, a fire-stove that goes under the bed - Component \u4e19 (name- fire-kang \u4e19 b\u01d0ng)"
+        },
+        {
+            "id": 62,
+            "character": "\u79c9",
+            "instruction": "Analyze the given image and provide a detailed description",
+            "input": "3724909.jpg",
+            "output": "hand grasping a stalk of grain - Component \u79c9 from square-hand \u2e95 y\u00f2u and grain \u79be h\u00e9. (name- hand-grabbing-single-grain \u79c9 b\u01d0ng)"
+        },
+        {
+            "id": 63,
+            "character": "\u5e76",
+            "instruction": "Analyze the given image and provide a detailed description",
+            "input": "3724326.jpg",
+            "output": "two men added together and equal \u4e26\u4e14 B\u00ecngqi\u011b furthermore - Component \u4e26 from \ud840\udc24 from \u7add from two person-stand \u7acb l\u00ec C037 \u5e76<\u4f75\u4e26\u7add> simp \u5e76. (name- two-person-equal (\u5e76)\u4e26\u7add\ud840\udc24 b\u00ecng)"
+        },
+        {
+            "id": 64,
+            "character": "\u5e76",
+            "instruction": "Analyze the given image and provide a detailed description",
+            "input": "3725608.jpg",
+            "output": "two men added together and equal \u4e26\u4e14 B\u00ecngqi\u011b furthermore - Component \u4e26 from \ud840\udc24 from \u7add from two person-stand \u7acb l\u00ec C037 \u5e76<\u4f75\u4e26\u7add> simp \u5e76. (name- two-person-equal (\u5e76)\u4e26\u7add\ud840\udc24 b\u00ecng)"
+        },
+        {
+            "id": 65,
+            "character": "\u5e76",
+            "instruction": "Analyze the given image and provide a detailed description",
+            "input": "3725555.jpg",
+            "output": "two men added together and equal \u4e26\u4e14 B\u00ecngqi\u011b furthermore - Component \u4e26 from \ud840\udc24 from \u7add from two person-stand \u7acb l\u00ec C037 \u5e76<\u4f75\u4e26\u7add> simp \u5e76. (name- two-person-equal (\u5e76)\u4e26\u7add\ud840\udc24 b\u00ecng)"
+        },
+        {
+            "id": 66,
+            "character": "\u5e76",
+            "instruction": "Analyze the given image and provide a detailed description",
+            "input": "3725911.jpg",
+            "output": "two men added together and equal \u4e26\u4e14 B\u00ecngqi\u011b furthermore - Component \u4e26 from \ud840\udc24 from \u7add from two person-stand \u7acb l\u00ec C037 \u5e76<\u4f75\u4e26\u7add> simp \u5e76. (name- two-person-equal (\u5e76)\u4e26\u7add\ud840\udc24 b\u00ecng)"
+        },
+        {
+            "id": 67,
+            "character": "\u5e76",
+            "instruction": "Analyze the given image and provide a detailed description",
+            "input": "3726690.jpg",
+            "output": "two men added together and equal \u4e26\u4e14 B\u00ecngqi\u011b furthermore - Component \u4e26 from \ud840\udc24 from \u7add from two person-stand \u7acb l\u00ec C037 \u5e76<\u4f75\u4e26\u7add> simp \u5e76. (name- two-person-equal (\u5e76)\u4e26\u7add\ud840\udc24 b\u00ecng)"
+        },
+        {
+            "id": 68,
+            "character": "\u9a73",
+            "instruction": "Analyze the given image and provide a detailed description",
+            "input": "3726816.jpg",
+            "output": "mixed color - Compound \u99c1 mutant \u99ee from horse (\u9a6c)\u99ac m\u01ce and (rem- \u4ea4 ji\u0101o) from (rem- \u723b y\u00e1o markings-on-horse) C041 \u99c1<\u99ee> simp \u9a73. (name- horse-Appaloosa (\u9a73)\u99c1\u99ee b\u00f3)"
+        },
+        {
+            "id": 69,
+            "character": "\u5e1b",
+            "instruction": "Analyze the given image and provide a detailed description",
+            "input": "3726239.jpg",
+            "output": "cloth of white cotton - Component \u5e1b from cloth \u5dfe j\u012bn and phonetic white-moon \u767d b\u00e1i. (name- white-cloth \u5e1b b\u00f3)"
+        },
+        {
+            "id": 70,
+            "character": "\u6cca",
+            "instruction": "Analyze the given image and provide a detailed description",
+            "input": "3727786.jpg",
+            "output": "Compound \u6cca from three-dot-water \u6c35 shu\u01d0 and phonetic white-moon \u767d b\u00e1i name- to-moor \u6cca b\u00f3"
+        },
+        {
+            "id": 71,
+            "character": "\u4eb3",
+            "instruction": "Analyze the given image and provide a detailed description",
+            "input": "3727179.jpg",
+            "output": "Compound \u4eb3 from building-tall \u9ad8 g\u0101o and phonetic support-pole \u4e47 tu\u014d"
+        },
+        {
+            "id": 72,
+            "character": "\u4eb3",
+            "instruction": "Analyze the given image and provide a detailed description",
+            "input": "3727129.jpg",
+            "output": "Compound \u4eb3 from building-tall \u9ad8 g\u0101o and phonetic support-pole \u4e47 tu\u014d"
+        },
+        {
+            "id": 73,
+            "character": "\u4eb3",
+            "instruction": "Analyze the given image and provide a detailed description",
+            "input": "3727265.jpg",
+            "output": "Compound \u4eb3 from building-tall \u9ad8 g\u0101o and phonetic support-pole \u4e47 tu\u014d"
+        },
+        {
+            "id": 74,
+            "character": "\u4eb3",
+            "instruction": "Analyze the given image and provide a detailed description",
+            "input": "3728177.jpg",
+            "output": "Compound \u4eb3 from building-tall \u9ad8 g\u0101o and phonetic support-pole \u4e47 tu\u014d"
+        },
+        {
+            "id": 75,
+            "character": "\u535c",
+            "instruction": "Analyze the given image and provide a detailed description",
+            "input": "3728460.jpg",
+            "output": "tool - Component \u535c older \u2e8a\ud840\udc61 A015 \u535c[\u8514] simp \u535c. (name- bone-crack \u535c bo)"
+        },
+        {
+            "id": 76,
+            "character": "\u4e0d",
+            "instruction": "Analyze the given image and provide a detailed description",
+            "input": "3728950.jpg",
+            "output": "a plant cut at the root to be stooled - Component \u4e0d (name- plant-no \u4e0d b\u00f9)"
+        },
+        {
+            "id": 77,
+            "character": "\u4e0d",
+            "instruction": "Analyze the given image and provide a detailed description",
+            "input": "3729596.jpg",
+            "output": "a plant cut at the root to be stooled - Component \u4e0d (name- plant-no \u4e0d b\u00f9)"
+        },
+        {
+            "id": 78,
+            "character": "\u6b65",
+            "instruction": "Analyze the given image and provide a detailed description",
+            "input": "3730149.jpg",
+            "output": "Compound \u6b65 older \ud84e\udd57 \u6b68 from foot-forward \u9fb0\u6b62 zh\u01d0 and foot-up \ud84e\udd42 t\u00e0. (name- two-feet \u6b65\ud84e\udd57 b\u00f9)"
+        },
+        {
+            "id": 79,
+            "character": "\u624d",
+            "instruction": "Analyze the given image and provide a detailed description",
+            "input": "3730632.jpg",
+            "output": "(- maybe a sprout) (- maybe a blocked stream) - Component \u624d A017 \u624d[\u7e94] simp \u624d. (name- dam \u624d c\u00e1i)"
+        },
+        {
+            "id": 80,
+            "character": "\u624d",
+            "instruction": "Analyze the given image and provide a detailed description",
+            "input": "3730945.jpg",
+            "output": "(- maybe a sprout) (- maybe a blocked stream) - Component \u624d A017 \u624d[\u7e94] simp \u624d. (name- dam \u624d c\u00e1i)"
+        },
+        {
+            "id": 81,
+            "character": "\u91c7",
+            "instruction": "Analyze the given image and provide a detailed description",
+            "input": "3731243.jpg",
+            "output": "Compound \u91c7 from hand-above \u722b zhu\u01ce and tree \u6728 m\u00f9 (not- \u91c6 bi\u00e0n) C046 \u91c7<\u5bc0\u63a1> simp \u91c7. (name- hand-pick \u91c7 c\u01cei)"
+        },
+        {
+            "id": 82,
+            "character": "\u91c7",
+            "instruction": "Analyze the given image and provide a detailed description",
+            "input": "3731373.jpg",
+            "output": "Compound \u91c7 from hand-above \u722b zhu\u01ce and tree \u6728 m\u00f9 (not- \u91c6 bi\u00e0n) C046 \u91c7<\u5bc0\u63a1> simp \u91c7. (name- hand-pick \u91c7 c\u01cei)"
+        },
+        {
+            "id": 83,
+            "character": "\u4ed3",
+            "instruction": "Analyze the given image and provide a detailed description",
+            "input": "3732653.jpg",
+            "output": "Component \u5009 from inverted-mouth \u4ebc j\u00ed and door (\u6237)\u6236\u6238 h\u00f9 and mouth \u53e3 k\u01d2u B010 \u4ed3[\u5009] new-char \u4ed3. name- building-granary (\u4ed3)\u5009 c\u0101ng"
+        },
+        {
+            "id": 84,
+            "character": "\u4ed3",
+            "instruction": "Analyze the given image and provide a detailed description",
+            "input": "3732553.jpg",
+            "output": "Component \u5009 from inverted-mouth \u4ebc j\u00ed and door (\u6237)\u6236\u6238 h\u00f9 and mouth \u53e3 k\u01d2u B010 \u4ed3[\u5009] new-char \u4ed3. name- building-granary (\u4ed3)\u5009 c\u0101ng"
+        },
+        {
+            "id": 85,
+            "character": "\u4ed3",
+            "instruction": "Analyze the given image and provide a detailed description",
+            "input": "3732883.jpg",
+            "output": "Component \u5009 from inverted-mouth \u4ebc j\u00ed and door (\u6237)\u6236\u6238 h\u00f9 and mouth \u53e3 k\u01d2u B010 \u4ed3[\u5009] new-char \u4ed3. name- building-granary (\u4ed3)\u5009 c\u0101ng"
+        },
+        {
+            "id": 86,
+            "character": "\u4ed3",
+            "instruction": "Analyze the given image and provide a detailed description",
+            "input": "3733965.jpg",
+            "output": "Component \u5009 from inverted-mouth \u4ebc j\u00ed and door (\u6237)\u6236\u6238 h\u00f9 and mouth \u53e3 k\u01d2u B010 \u4ed3[\u5009] new-char \u4ed3. name- building-granary (\u4ed3)\u5009 c\u0101ng"
+        },
+        {
+            "id": 87,
+            "character": "\u66f9",
+            "instruction": "Analyze the given image and provide a detailed description",
+            "input": "3738533.jpg",
+            "output": "person who manages \u66f0 inventory \u3be5 - judge, etc - Component \u66f9 older \ud84c\udf58 from two-bags \u3be5 c\u00e1o and mouth-speaking \u66f0 yu\u0113. (name- family-name \u66f9\ud84c\udf58 c\u00e1o)"
+        },
+        {
+            "id": 88,
+            "character": "\u518c",
+            "instruction": "Analyze the given image and provide a detailed description",
+            "input": "3738932.jpg",
+            "output": "bamboo strips with words written on them woven together into a scroll - Component \u518c older \u518a C052 \u518c<\u518a> simp \u518c. (name- scroll (\u518c)\u518a c\u00e8)"
+        },
+        {
+            "id": 89,
+            "character": "\u53c9",
+            "instruction": "Analyze the given image and provide a detailed description",
+            "input": "3739646.jpg",
+            "output": "interlaced fingers - Component \u53c9 (name- hand-fork \u53c9 ch\u0101)"
+        },
+        {
+            "id": 90,
+            "character": "\u53c9",
+            "instruction": "Analyze the given image and provide a detailed description",
+            "input": "3739479.jpg",
+            "output": "interlaced fingers - Component \u53c9 (name- hand-fork \u53c9 ch\u0101)"
+        },
+        {
+            "id": 91,
+            "character": "\u660c",
+            "instruction": "Analyze the given image and provide a detailed description",
+            "input": "3739475.jpg",
+            "output": "Compound \u660c from two sun-day \u65e5 r\u00ec. (name- two-suns \u660c ch\u0101ng)"
+        },
+        {
+            "id": 92,
+            "character": "\u957f",
+            "instruction": "Analyze the given image and provide a detailed description",
+            "input": "3740648.jpg",
+            "output": "a man with long hair, indicating long - Component \u9577 mutants \u9578\ud841\udc7f B012 \u957f[\u9577] new-char \u957f. name- long-hair (\u957f)\u9577 zh\u01ceng"
+        },
+        {
+            "id": 93,
+            "character": "\u9b2f",
+            "instruction": "Analyze the given image and provide a detailed description",
+            "input": "3740283.jpg",
+            "output": "a bowl of rice - Component \u9b2f from bowl-of-rice \ud841\ude8d none and (rem+ \u5315 b\u01d0 base-of-bowl). (name- bowl-of-rice \u9b2f ch\u00e0ng)"
+        },
+        {
+            "id": 94,
+            "character": "\u9b2f",
+            "instruction": "Analyze the given image and provide a detailed description",
+            "input": "3740480.jpg",
+            "output": "a bowl of rice - Component \u9b2f from bowl-of-rice \ud841\ude8d none and (rem+ \u5315 b\u01d0 base-of-bowl). (name- bowl-of-rice \u9b2f ch\u00e0ng)"
+        },
+        {
+            "id": 95,
+            "character": "\u9b2f",
+            "instruction": "Analyze the given image and provide a detailed description",
+            "input": "3741316.jpg",
+            "output": "a bowl of rice - Component \u9b2f from bowl-of-rice \ud841\ude8d none and (rem+ \u5315 b\u01d0 base-of-bowl). (name- bowl-of-rice \u9b2f ch\u00e0ng)"
+        },
+        {
+            "id": 96,
+            "character": "\u671d",
+            "instruction": "Analyze the given image and provide a detailed description",
+            "input": "3741347.jpg",
+            "output": "original of \u6f6e morning tide \u6641 - Compound \u671d\ud85a\ude7b from (rem- person \ud840\udc89) from (rem- \ue854) from sunrise \u501d g\u00e0n and (rem- \u6708 yu\u00e8)(rem- \u821f zh\u014du) from water \u6c34 shu\u01d0 name- morning \u671d zh\u0101o"
+        },
+        {
+            "id": 97,
+            "character": "\u671d",
+            "instruction": "Analyze the given image and provide a detailed description",
+            "input": "3741412.jpg",
+            "output": "original of \u6f6e morning tide \u6641 - Compound \u671d\ud85a\ude7b from (rem- person \ud840\udc89) from (rem- \ue854) from sunrise \u501d g\u00e0n and (rem- \u6708 yu\u00e8)(rem- \u821f zh\u014du) from water \u6c34 shu\u01d0 name- morning \u671d zh\u0101o"
+        },
+        {
+            "id": 98,
+            "character": "\u671d",
+            "instruction": "Analyze the given image and provide a detailed description",
+            "input": "3741273.jpg",
+            "output": "original of \u6f6e morning tide \u6641 - Compound \u671d\ud85a\ude7b from (rem- person \ud840\udc89) from (rem- \ue854) from sunrise \u501d g\u00e0n and (rem- \u6708 yu\u00e8)(rem- \u821f zh\u014du) from water \u6c34 shu\u01d0 name- morning \u671d zh\u0101o"
+        },
+        {
+            "id": 99,
+            "character": "\u671d",
+            "instruction": "Analyze the given image and provide a detailed description",
+            "input": "3742492.jpg",
+            "output": "original of \u6f6e morning tide \u6641 - Compound \u671d\ud85a\ude7b from (rem- person \ud840\udc89) from (rem- \ue854) from sunrise \u501d g\u00e0n and (rem- \u6708 yu\u00e8)(rem- \u821f zh\u014du) from water \u6c34 shu\u01d0 name- morning \u671d zh\u0101o"
+        },
+        {
+            "id": 100,
+            "character": "\u8f66",
+            "instruction": "Analyze the given image and provide a detailed description",
+            "input": "3742331.jpg",
+            "output": "two wheeled cart - Component \u8eca B014 \u8f66[\u8eca] new-char \u8f66 (name- cart (\u8f66)\u8eca ch\u0113)"
+        },
+        {
+            "id": 101,
+            "character": "\u8f66",
+            "instruction": "Analyze the given image and provide a detailed description",
+            "input": "3742324.jpg",
+            "output": "two wheeled cart - Component \u8eca B014 \u8f66[\u8eca] new-char \u8f66 (name- cart (\u8f66)\u8eca ch\u0113)"
+        },
+        {
+            "id": 102,
+            "character": "\u8f66",
+            "instruction": "Analyze the given image and provide a detailed description",
+            "input": "3745204.jpg",
+            "output": "two wheeled cart - Component \u8eca B014 \u8f66[\u8eca] new-char \u8f66 (name- cart (\u8f66)\u8eca ch\u0113)"
+        }
+    ]
+}
